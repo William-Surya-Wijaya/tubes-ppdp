@@ -11,3 +11,5 @@ print("Data with NaN values :"); print(dfCheck);
 
 print("Data with minimum values :"); print(mall.min());
 print("Data with maximum values :"); print(mall.max());
+
+#eeeee
